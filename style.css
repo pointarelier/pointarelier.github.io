@@ -15,4 +15,5 @@ img{
 img:hover{
   width:auto;
   height:auto;
+  margin:0;
 }
