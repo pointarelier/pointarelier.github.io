@@ -1,2 +1,3 @@
 # pointarelier.github.io
-Un jeu absurde.
+Un jeu absurde par Corentin Brulé pour Ah, tu fais du dessin?
+facebook.com/ahtufaisdudessin
